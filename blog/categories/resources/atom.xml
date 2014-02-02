@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My First Blog]]></title>
-  <link href="http://kanyuga.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Resources | My First Blog]]></title>
+  <link href="http://kanyuga.github.io/blog/categories/resources/atom.xml" rel="self"/>
   <link href="http://kanyuga.github.io/"/>
   <updated>2014-02-02T23:12:33+03:00</updated>
   <id>http://kanyuga.github.io/</id>
@@ -92,17 +92,6 @@
 <li><a href="http://www.uapkenya.com/products/individual/health-insurance/">Site Page</a></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Houston Do You Copy?]]></title>
-    <link href="http://kanyuga.github.io/blog/2014/02/02/houston-do-you-copy/"/>
-    <updated>2014-02-02T22:39:59+03:00</updated>
-    <id>http://kanyuga.github.io/blog/2014/02/02/houston-do-you-copy</id>
-    <content type="html"><![CDATA[<p><em>YES</em></p>
-
-<p>We read you :)</p>
 ]]></content>
   </entry>
   
