@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://kanyuga.github.io/sitemap.xml 
